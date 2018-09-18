@@ -133,7 +133,7 @@
 
 
 \newenvironment{HECimagesstitre}[1]{%
-\vspace{-6.5mm}
+\vspace{-3.5mm}
 \begin{block}{#1}
 \begin{figure}
 }{%

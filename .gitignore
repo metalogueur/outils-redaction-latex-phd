@@ -1,6 +1,7 @@
 # Files to ignore
 
 img/*.pdf
+img/Thumbs.db
 hecppt.dtx
 hecppt.ins
 hecppt.pdf
@@ -22,3 +23,4 @@ readme.md
 *.gls
 *.ilg
 *.ind
+*.vrb
